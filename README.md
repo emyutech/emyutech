@@ -7,4 +7,4 @@ I am just a student learning how to code.
 - My main interest are in learning more about Cybersecurity
 - Interested in system security specifically
 - Know Python, C++, C, and Java
-- Also Java
+- Majoring in Math of Computation
